@@ -4,6 +4,9 @@ Clean up and simple EDA on Speed Dating data from Tinder.
 **Creator**  
 Mélanie Beraud, Starting Date: October 2023.  
 
+**Aim of the projecct**
+Have a better understanding of what makes a good match to improve dating process.  
+
 **Data**  
 Curated by Jedha for teaching purposes  
 
